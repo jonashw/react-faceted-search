@@ -1,0 +1,18 @@
+[
+  {
+    "path": "/sample-data/software-development-issues.json",
+    "name": "software-development-issues"
+  },
+  {
+    "path": "/sample-data/artworks.json",
+    "name": "artworks"
+  },
+  {
+    "path": "/sample-data/sample-records.json",
+    "name": "sample-records"
+  },
+  {
+    "path": "/sample-data/employees.json",
+    "name": "employees"
+  }
+]
